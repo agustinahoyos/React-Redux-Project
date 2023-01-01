@@ -17,7 +17,7 @@
     "@babel/preset-env": "^7.10.2",
     "@babel/preset-react": "^7.10.1",
     "@babel/register": "^7.10.1",
-    "babel-loader": "^8.1.0",
+    "babel-loader": "^8.3.0",
     "chai": "^4.2.0",
     "chai-properties": "^1.4.0",
     "chai-things": "^0.2.0",
@@ -44,6 +44,6 @@
     "react-router-dom": "^5.2.0",
     "redux": "^4.0.5",
     "sequelize": "^5.21.13",
-    "webpack": "^4.43.0"
+    "webpack": "^5.75.0"
   }
 }
